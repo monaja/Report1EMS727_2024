@@ -1,0 +1,18 @@
+cell_index,source
+0,"import nbformat
+import pandas as pd
+
+# Read the Jupyter Notebook file
+with open(file_path, 'r') as f:
+    notebook = nbformat.read(f, as_version=4)
+
+# Extract code cells
+code_cells = [cell for cell in notebook.cells if cell.cell_type == 'code']
+
+# Create a DataFrame from the code cells
+df_code_cells = pd.DataFrame({'cell_index': range(len(code_cells)), 'source': [cell.source for cell in code_cells]})
+
+# Save the DataFrame to a CSV file
+df_code_cells.to_csv('notebook_code_cells.csv', index=False)"
+1,
+2,

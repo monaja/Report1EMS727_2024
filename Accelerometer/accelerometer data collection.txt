@@ -1,0 +1,510 @@
+
+(temperature external 9degrees internal temperature 21 degrees.)
+
+Current angle: 0
+Accelerometer:  | Z = 15828
+Accelerometer:  | Z = 15920
+Accelerometer:  | Z = 15984
+Accelerometer:  | Z = 15896
+Accelerometer:  | Z = 15968
+Accelerometer:  | Z = 15884
+Accelerometer:  | Z = 15908
+Accelerometer:  | Z = 16004
+Accelerometer:  | Z = 15980
+Accelerometer:  | Z = 16004
+Accelerometer:  | Z = 15860
+Accelerometer:  | Z = 15980
+Accelerometer:  | Z = 16012
+Accelerometer:  | Z = 15896
+Accelerometer:  | Z = 15952
+Accelerometer:  | Z = 15932
+Accelerometer:  | Z = 15944
+Accelerometer:  | Z = 16000
+Accelerometer:  | Z = 15980
+Accelerometer:  | Z = 15980
+|Average: 15945.60
+
+Current angle: 36
+Accelerometer:  | Z = 12164
+Accelerometer:  | Z = 12296
+Accelerometer:  | Z = 12276
+Accelerometer:  | Z = 12320
+Accelerometer:  | Z = 12136
+Accelerometer:  | Z = 12212
+Accelerometer:  | Z = 12308
+Accelerometer:  | Z = 12292
+Accelerometer:  | Z = 12276
+Accelerometer:  | Z = 12368
+Accelerometer:  | Z = 12256
+Accelerometer:  | Z = 12396
+Accelerometer:  | Z = 12280
+Accelerometer:  | Z = 12248
+Accelerometer:  | Z = 12168
+Accelerometer:  | Z = 12260
+Accelerometer:  | Z = 12128
+Accelerometer:  | Z = 12216
+Accelerometer:  | Z = 12268
+Accelerometer:  | Z = 12224
+|Average: 12254.60
+
+Current angle: 72
+Accelerometer:  | Z = 5084
+Accelerometer:  | Z = 4956
+Accelerometer:  | Z = 5000
+Accelerometer:  | Z = 4924
+Accelerometer:  | Z = 4936
+Accelerometer:  | Z = 4976
+Accelerometer:  | Z = 5124
+Accelerometer:  | Z = 4968
+Accelerometer:  | Z = 5004
+Accelerometer:  | Z = 5068
+Accelerometer:  | Z = 4976
+Accelerometer:  | Z = 5028
+Accelerometer:  | Z = 4984
+Accelerometer:  | Z = 5100
+Accelerometer:  | Z = 4984
+Accelerometer:  | Z = 4920
+Accelerometer:  | Z = 5100
+Accelerometer:  | Z = 4948
+Accelerometer:  | Z = 4984
+Accelerometer:  | Z = 5028
+|Average: 5004.60
+
+Current angle: 108
+Accelerometer:  | Z = -6564
+Accelerometer:  | Z = -6564
+Accelerometer:  | Z = -6512
+Accelerometer:  | Z = -6652
+Accelerometer:  | Z = -6632
+Accelerometer:  | Z = -6452
+Accelerometer:  | Z = -6624
+Accelerometer:  | Z = -6520
+Accelerometer:  | Z = -6476
+Accelerometer:  | Z = -6500
+Accelerometer:  | Z = -6524
+Accelerometer:  | Z = -6684
+Accelerometer:  | Z = -6544
+Accelerometer:  | Z = -6588
+Accelerometer:  | Z = -6580
+Accelerometer:  | Z = -6628
+Accelerometer:  | Z = -6592
+Accelerometer:  | Z = -6540
+Accelerometer:  | Z = -6644
+Accelerometer:  | Z = -6488
+|Average: -6565.40
+
+Current angle: 144
+Accelerometer:  | Z = -14832
+Accelerometer:  | Z = -14804
+Accelerometer:  | Z = -14756
+Accelerometer:  | Z = -14756
+Accelerometer:  | Z = -14868
+Accelerometer:  | Z = -14708
+Accelerometer:  | Z = -14828
+Accelerometer:  | Z = -14884
+Accelerometer:  | Z = -14772
+Accelerometer:  | Z = -14808
+Accelerometer:  | Z = -14784
+Accelerometer:  | Z = -14852
+Accelerometer:  | Z = -14724
+Accelerometer:  | Z = -14880
+Accelerometer:  | Z = -14772
+Accelerometer:  | Z = -14816
+Accelerometer:  | Z = -14872
+Accelerometer:  | Z = -14820
+Accelerometer:  | Z = -14820
+Accelerometer:  | Z = -14748
+|Average: -14805.20
+
+Current angle: 180
+Accelerometer:  | Z = -17692
+Accelerometer:  | Z = -17864
+Accelerometer:  | Z = -17836
+Accelerometer:  | Z = -17712
+Accelerometer:  | Z = -17820
+Accelerometer:  | Z = -17800
+Accelerometer:  | Z = -17828
+Accelerometer:  | Z = -17732
+Accelerometer:  | Z = -17752
+Accelerometer:  | Z = -17724
+Accelerometer:  | Z = -17764
+Accelerometer:  | Z = -17596
+Accelerometer:  | Z = -17888
+Accelerometer:  | Z = -17792
+Accelerometer:  | Z = -17708
+Accelerometer:  | Z = -17692
+Accelerometer:  | Z = -17696
+Accelerometer:  | Z = -17676
+Accelerometer:  | Z = -17748
+Accelerometer:  | Z = -17788
+|Average: -17755.40
+
+Current angle: 216
+Accelerometer:  | Z = -14920
+Accelerometer:  | Z = -14876
+Accelerometer:  | Z = -14792
+Accelerometer:  | Z = -14984
+Accelerometer:  | Z = -14812
+Accelerometer:  | Z = -14888
+Accelerometer:  | Z = -14792
+Accelerometer:  | Z = -14932
+Accelerometer:  | Z = -14904
+Accelerometer:  | Z = -14812
+Accelerometer:  | Z = -14908
+Accelerometer:  | Z = -14944
+Accelerometer:  | Z = -15032
+Accelerometer:  | Z = -15052
+Accelerometer:  | Z = -14788
+Accelerometer:  | Z = -14960
+Accelerometer:  | Z = -14948
+Accelerometer:  | Z = -14776
+Accelerometer:  | Z = -14772
+Accelerometer:  | Z = -14832
+|Average: -14886.20
+
+Current angle: 252
+Accelerometer:  | Z = -6616
+Accelerometer:  | Z = -6616
+Accelerometer:  | Z = -6644
+Accelerometer:  | Z = -6672
+Accelerometer:  | Z = -6612
+Accelerometer:  | Z = -6644
+Accelerometer:  | Z = -6580
+Accelerometer:  | Z = -6572
+Accelerometer:  | Z = -6788
+Accelerometer:  | Z = -6608
+Accelerometer:  | Z = -6704
+Accelerometer:  | Z = -6760
+Accelerometer:  | Z = -6680
+Accelerometer:  | Z = -6752
+Accelerometer:  | Z = -6728
+Accelerometer:  | Z = -6680
+Accelerometer:  | Z = -6760
+Accelerometer:  | Z = -6624
+Accelerometer:  | Z = -6728
+Accelerometer:  | Z = -6748
+|Average: -6675.80
+
+Current angle: 288
+Accelerometer:  | Z = 3900
+Accelerometer:  | Z = 4004
+Accelerometer:  | Z = 3908
+Accelerometer:  | Z = 3968
+Accelerometer:  | Z = 3976
+Accelerometer:  | Z = 4008
+Accelerometer:  | Z = 3968
+Accelerometer:  | Z = 3996
+Accelerometer:  | Z = 4060
+Accelerometer:  | Z = 4012
+Accelerometer:  | Z = 3908
+Accelerometer:  | Z = 3984
+Accelerometer:  | Z = 3932
+Accelerometer:  | Z = 3936
+Accelerometer:  | Z = 3980
+Accelerometer:  | Z = 3896
+Accelerometer:  | Z = 4052
+Accelerometer:  | Z = 3924
+Accelerometer:  | Z = 3924
+Accelerometer:  | Z = 3860
+|Average: 3959.80
+
+Current angle: 324
+Accelerometer:  | Z = 12660
+Accelerometer:  | Z = 12660
+Accelerometer:  | Z = 12584
+Accelerometer:  | Z = 12772
+Accelerometer:  | Z = 12628
+Accelerometer:  | Z = 12724
+Accelerometer:  | Z = 12472
+Accelerometer:  | Z = 12576
+Accelerometer:  | Z = 12536
+Accelerometer:  | Z = 12728
+Accelerometer:  | Z = 12744
+Accelerometer:  | Z = 12468
+Accelerometer:  | Z = 11984
+Accelerometer:  | Z = 12584
+Accelerometer:  | Z = 12512
+Accelerometer:  | Z = 12472
+Accelerometer:  | Z = 12540
+Accelerometer:  | Z = 12388
+Accelerometer:  | Z = 12464
+Accelerometer:  | Z = 12584
+|Average: 12554.00
+
+
+Current angle: 360
+Accelerometer:  | Z = 15728
+Accelerometer:  | Z = 15736
+Accelerometer:  | Z = 15656
+Accelerometer:  | Z = 15748
+Accelerometer:  | Z = 15552
+Accelerometer:  | Z = 15668
+Accelerometer:  | Z = 15680
+Accelerometer:  | Z = 15588
+Accelerometer:  | Z = 15608
+Accelerometer:  | Z = 15568
+Accelerometer:  | Z = 15648
+Accelerometer:  | Z = 15724
+Accelerometer:  | Z = 15660
+Accelerometer:  | Z = 15632
+Accelerometer:  | Z = 15604
+Accelerometer:  | Z = 15664
+Accelerometer:  | Z = 15528
+Accelerometer:  | Z = 15796
+Accelerometer:  | Z = 15668
+Accelerometer:  | Z = 15640
+|Average: 15654.80
+
+Current angle: 396
+Accelerometer:  | Z = 12148
+Accelerometer:  | Z = 12180
+Accelerometer:  | Z = 12312
+Accelerometer:  | Z = 12096
+Accelerometer:  | Z = 12272
+Accelerometer:  | Z = 12220
+Accelerometer:  | Z = 12280
+Accelerometer:  | Z = 12304
+Accelerometer:  | Z = 12132
+Accelerometer:  | Z = 12224
+Accelerometer:  | Z = 12092
+Accelerometer:  | Z = 12104
+Accelerometer:  | Z = 12264
+Accelerometer:  | Z = 12216
+Accelerometer:  | Z = 12208
+Accelerometer:  | Z = 12216
+Accelerometer:  | Z = 12288
+Accelerometer:  | Z = 12192
+Accelerometer:  | Z = 12136
+Accelerometer:  | Z = 12256
+|Average: 12207.00
+
+Current angle: 432
+Accelerometer:  | Z = 3584
+Accelerometer:  | Z = 3576
+Accelerometer:  | Z = 3636
+Accelerometer:  | Z = 3628
+Accelerometer:  | Z = 3584
+Accelerometer:  | Z = 3644
+Accelerometer:  | Z = 3432
+Accelerometer:  | Z = 3620
+Accelerometer:  | Z = 3556
+Accelerometer:  | Z = 3524
+Accelerometer:  | Z = 3496
+Accelerometer:  | Z = 3556
+Accelerometer:  | Z = 3644
+Accelerometer:  | Z = 3572
+Accelerometer:  | Z = 3576
+Accelerometer:  | Z = 3568
+Accelerometer:  | Z = 3624
+Accelerometer:  | Z = 3632
+Accelerometer:  | Z = 3488
+Accelerometer:  | Z = 3596
+|Average: 3576.80
+
+Current angle: 468
+Accelerometer:  | Z = -6604
+Accelerometer:  | Z = -6784
+Accelerometer:  | Z = -6644
+Accelerometer:  | Z = -6768
+Accelerometer:  | Z = -6796
+Accelerometer:  | Z = -6556
+Accelerometer:  | Z = -6732
+Accelerometer:  | Z = -6720
+Accelerometer:  | Z = -6816
+Accelerometer:  | Z = -6808
+Accelerometer:  | Z = -6708
+Accelerometer:  | Z = -6668
+Accelerometer:  | Z = -6796
+Accelerometer:  | Z = -6684
+Accelerometer:  | Z = -6708
+Accelerometer:  | Z = -6728
+Accelerometer:  | Z = -6676
+Accelerometer:  | Z = -6792
+Accelerometer:  | Z = -6636
+Accelerometer:  | Z = -6616
+|Average: -6712.00
+
+Current angle: 504
+Accelerometer:  | Z = -14976
+Accelerometer:  | Z = -14880
+Accelerometer:  | Z = -14872
+Accelerometer:  | Z = -14824
+Accelerometer:  | Z = -14876
+Accelerometer:  | Z = -14876
+Accelerometer:  | Z = -14900
+Accelerometer:  | Z = -14916
+Accelerometer:  | Z = -14900
+Accelerometer:  | Z = -14892
+Accelerometer:  | Z = -14920
+Accelerometer:  | Z = -14872
+Accelerometer:  | Z = -14940
+Accelerometer:  | Z = -14852
+Accelerometer:  | Z = -14928
+Accelerometer:  | Z = -14828
+Accelerometer:  | Z = -14856
+Accelerometer:  | Z = -14864
+Accelerometer:  | Z = -14872
+Accelerometer:  | Z = -14968
+|Average: -14890.60
+
+Current angle: 540
+Accelerometer:  | Z = -17480
+Accelerometer:  | Z = -17564
+Accelerometer:  | Z = -17664
+Accelerometer:  | Z = -17448
+Accelerometer:  | Z = -17596
+Accelerometer:  | Z = -17488
+Accelerometer:  | Z = -17464
+Accelerometer:  | Z = -17504
+Accelerometer:  | Z = -17476
+Accelerometer:  | Z = -17572
+Accelerometer:  | Z = -17580
+Accelerometer:  | Z = -17524
+Accelerometer:  | Z = -17532
+Accelerometer:  | Z = -17492
+Accelerometer:  | Z = -17552
+Accelerometer:  | Z = -17620
+Accelerometer:  | Z = -17388
+Accelerometer:  | Z = -17584
+Accelerometer:  | Z = -17528
+Accelerometer:  | Z = -17384
+|Average: -17522.0
+
+Current angle: 576
+Accelerometer:  | Z = -13916
+Accelerometer:  | Z = -14008
+Accelerometer:  | Z = -13992
+Accelerometer:  | Z = -13972
+Accelerometer:  | Z = -14108
+Accelerometer:  | Z = -13920
+Accelerometer:  | Z = -14040
+Accelerometer:  | Z = -13984
+Accelerometer:  | Z = -13892
+Accelerometer:  | Z = -13888
+Accelerometer:  | Z = -13928
+Accelerometer:  | Z = -13892
+Accelerometer:  | Z = -13952
+Accelerometer:  | Z = -13928
+Accelerometer:  | Z = -13908
+Accelerometer:  | Z = -13988
+Accelerometer:  | Z = -13908
+Accelerometer:  | Z = -14056
+Accelerometer:  | Z = -14048
+Accelerometer:  | Z = -13920
+|Average: -13962.40
+
+Current angle: 612
+Accelerometer:  | Z = -6464
+Accelerometer:  | Z = -6488
+Accelerometer:  | Z = -6248
+Accelerometer:  | Z = -6444
+Accelerometer:  | Z = -6472
+Accelerometer:  | Z = -6336
+Accelerometer:  | Z = -6424
+Accelerometer:  | Z = -6260
+Accelerometer:  | Z = -6332
+Accelerometer:  | Z = -6312
+Accelerometer:  | Z = -6424
+Accelerometer:  | Z = -6344
+Accelerometer:  | Z = -6264
+Accelerometer:  | Z = -6348
+Accelerometer:  | Z = -6320
+Accelerometer:  | Z = -6360
+Accelerometer:  | Z = -6444
+Accelerometer:  | Z = -6356
+Accelerometer:  | Z = -6324
+Accelerometer:  | Z = -6316
+|Average: -6364.00
+
+Current angle: 648
+Accelerometer:  | Z = 3856
+Accelerometer:  | Z = 3852
+Accelerometer:  | Z = 3872
+Accelerometer:  | Z = 3768
+Accelerometer:  | Z = 3836
+Accelerometer:  | Z = 3784
+Accelerometer:  | Z = 3776
+Accelerometer:  | Z = 3704
+Accelerometer:  | Z = 3900
+Accelerometer:  | Z = 3704
+Accelerometer:  | Z = 3784
+Accelerometer:  | Z = 3760
+Accelerometer:  | Z = 3780
+Accelerometer:  | Z = 3828
+Accelerometer:  | Z = 3740
+Accelerometer:  | Z = 3844
+Accelerometer:  | Z = 3740
+Accelerometer:  | Z = 3636
+Accelerometer:  | Z = 3792
+Accelerometer:  | Z = 3720
+|Average: 3783.80
+
+Current angle: 648
+Accelerometer:  | Z = 3896
+Accelerometer:  | Z = 3892
+Accelerometer:  | Z = 3836
+Accelerometer:  | Z = 3948
+Accelerometer:  | Z = 3936
+Accelerometer:  | Z = 3808
+Accelerometer:  | Z = 4024
+Accelerometer:  | Z = 3884
+Accelerometer:  | Z = 3804
+Accelerometer:  | Z = 3808
+Accelerometer:  | Z = 3820
+Accelerometer:  | Z = 3896
+Accelerometer:  | Z = 3836
+Accelerometer:  | Z = 3816
+Accelerometer:  | Z = 3720
+Accelerometer:  | Z = 3764
+Accelerometer:  | Z = 3852
+Accelerometer:  | Z = 3876
+Accelerometer:  | Z = 3996
+Accelerometer:  | Z = 3828
+|Average: 3862.00
+
+
+Current angle: 684
+Accelerometer:  | Z = 12228
+Accelerometer:  | Z = 12256
+Accelerometer:  | Z = 12328
+Accelerometer:  | Z = 12180
+Accelerometer:  | Z = 12316
+Accelerometer:  | Z = 12368
+Accelerometer:  | Z = 12260
+Accelerometer:  | Z = 12256
+Accelerometer:  | Z = 12344
+Accelerometer:  | Z = 12264
+Accelerometer:  | Z = 12476
+Accelerometer:  | Z = 12276
+Accelerometer:  | Z = 12284
+Accelerometer:  | Z = 12344
+Accelerometer:  | Z = 12400
+Accelerometer:  | Z = 12284
+Accelerometer:  | Z = 12204
+Accelerometer:  | Z = 12236
+Accelerometer:  | Z = 12336
+Accelerometer:  | Z = 12284
+|Average: 12296.20
+
+Current angle: 720
+Accelerometer:  | Z = 15968
+Accelerometer:  | Z = 15856
+Accelerometer:  | Z = 15960
+Accelerometer:  | Z = 15884
+Accelerometer:  | Z = 15772
+Accelerometer:  | Z = 15888
+Accelerometer:  | Z = 15960
+Accelerometer:  | Z = 15960
+Accelerometer:  | Z = 16020
+Accelerometer:  | Z = 15992
+Accelerometer:  | Z = 15916
+Accelerometer:  | Z = 16008
+Accelerometer:  | Z = 15908
+Accelerometer:  | Z = 16040
+Accelerometer:  | Z = 15828
+Accelerometer:  | Z = 15848
+Accelerometer:  | Z = 15912
+Accelerometer:  | Z = 15856
+Accelerometer:  | Z = 15952
+Accelerometer:  | Z = 15836
+|Average: 15918.20
