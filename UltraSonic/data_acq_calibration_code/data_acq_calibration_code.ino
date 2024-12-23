@@ -50,10 +50,9 @@ void setup() {
   // if (!dataFile) { Serial.println("error initalizing file."); }
 }
 
-
-String createFileName() {
-  char fileName[15];  // Buffer for the file name (8.3 format: "XXXXXX.TXT")
-  snprintf(fileName, sizeof(fileName), "DATA3%03d.TXT", fileCounter++);
+String createFileName(int currentAngle) {
+  char fileName[15]; 
+  snprintf(fileName, sizeof(fileName), "DATA_%dd.csv", currentAngle);
   return String(fileName);
 }
 void loop() {
@@ -75,7 +74,7 @@ void loop() {
     for (int i = 0; i < DATA_SIZE; i++) {
       float data_raw[Y_SAMPLE_SIZE];
 
-      String fileName = createFileName();
+      String fileName = createFileName(currentAngle);
       Serial.print("Creating file: ");
       Serial.println(fileName);
 
@@ -112,12 +111,6 @@ void loop() {
       delay(3000);
       long trigEchoTravelTimeTotal = 0;
 
-
-      // //insert to file here
-      // for (int j = 0; j < 1000; j++) {
-      // }
-      
-
       if (dataFile) {  
 
           dataFile.print(distValue);
@@ -134,7 +127,6 @@ void loop() {
             dataFile.print(trigEchoTravelTime);
             dataFile.println(",");
             if (i % 50 == 0) { dataFile.flush(); }
-
 
             //  data_raw[i] = trigEchoTravelTime;
             Serial.print("Reading...");
