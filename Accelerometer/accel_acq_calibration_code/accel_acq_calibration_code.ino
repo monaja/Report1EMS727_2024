@@ -1,13 +1,3 @@
-/*
- Arduino code to read acceleratometer data for Z-axis. 
- Francis Monaja & Anush Maria
-*/
-
-/**
- *  add all the codes that needs to be added for reading the temperature 
- *  and storing data to MicroSD card
- */
-
 
 #include <Wire.h>
 #include <dht.h>
